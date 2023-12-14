@@ -50,5 +50,5 @@ else:
     #     paper vs scissors      scissors vs rock         rock vs paper
     elif (c == 1 and y == 2) or (c == 2 and y == 0) or (c == 0 and y == 1):
         print('CONGRATULATIONS :D ¡You are the winner!')
-    
+
 print('-------------------------------------------------------------------------------')

@@ -1,3 +1,4 @@
+#Password Generator Project
 import random
 
 print('                              PASSWORD GENERATOR                               ')
@@ -7,9 +8,9 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n',
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
-nr_letters = random.randint(8, 10)
-nr_symbols = random.randint(2, 4)
-nr_numbers = random.randint(2, 4)
+nr_letters = int(input("How many letters would you like in your password? "))
+nr_symbols = int(input("How many symbols would you like? "))
+nr_numbers = int(input("How many numbers would you like? "))
 
 password = list()
 for i in range(0,nr_letters):

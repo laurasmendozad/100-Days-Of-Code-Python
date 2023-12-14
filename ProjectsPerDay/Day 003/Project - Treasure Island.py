@@ -44,7 +44,7 @@ if s1.upper() == 'L':
             finish(3)
         elif s3.upper() == 'Y':
             print('            :)  Oh yes, you found the treasure')
-            print(f'    STEP 3: Reached')
+            print('    STEP 3: Reached')
             print('MISION: Complete')
             print('                                CONGRATULATIONS                                ')
             print('-------------------------------------------------------------------------------')       

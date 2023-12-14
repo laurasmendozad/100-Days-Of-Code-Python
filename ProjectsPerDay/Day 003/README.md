@@ -12,7 +12,6 @@
 https://replit.com/@laurasmendozad/day-3-treasure-island
 
 ## Concepts Practiced
-
 - Conditionals if/else/elif
 - Module operator
 - Nested conditionals

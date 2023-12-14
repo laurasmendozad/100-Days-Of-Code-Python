@@ -7,7 +7,8 @@
 - [https://replit.com/@laurasmendozad/day-3-5-exercise](https://replit.com/@laurasmendozad/day-3-5-exercise) - Love Calculator
 
 ## Project - Treasure Island
-![Treasure Island](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/a5709709-bb38-44c0-989b-975099f6cdd9)
+
+![Treasure Island](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/55ca6d4e-8b3f-4bb3-917f-69e4b1e31dbf)
 
 https://replit.com/@laurasmendozad/day-3-treasure-island
 

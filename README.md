@@ -4,3 +4,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 
 ## 🌈 Beginner 
 - [Day 1:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%201) Working with Variables in Python to Manage Data
+- [Day 2:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%202) Understanding Data Types and How to Manipulate Strings

@@ -10,4 +10,9 @@
 
 https://replit.com/@laurasmendozad/day-1-band-name-generator
 
-## Band Name Generator
+## Concepts Practiced
+- Printing in console 
+- String manipulation
+- Debugging
+- The input function
+- Variables

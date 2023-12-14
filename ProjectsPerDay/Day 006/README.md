@@ -13,8 +13,7 @@
 [Maze](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 ![Maze](https://github.com/laurasmendozad/100-Days-Of-Code-Python/blob/main/ProjectsPerDay/Day%20006/Project%20-%20Escaping%20the%20Maze.png)
 
-https://replit.com/@laurasmendozad/day-5-password-generator
-
 ## Concepts Practiced
-- Range function
-- For loops
+- Functions
+- Indentation
+- While loops

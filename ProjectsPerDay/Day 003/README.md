@@ -7,10 +7,12 @@
 - [https://replit.com/@laurasmendozad/day-3-5-exercise](https://replit.com/@laurasmendozad/day-3-5-exercise) - Love Calculator
 
 ## Project - Treasure Island
+![Treasure Island](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/a5709709-bb38-44c0-989b-975099f6cdd9)
 
 https://replit.com/@laurasmendozad/day-3-treasure-island
 
 ## Concepts Practiced
+
 - Conditionals if/else/elif
 - Module operator
 - Nested conditionals

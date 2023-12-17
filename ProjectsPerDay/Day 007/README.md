@@ -7,7 +7,7 @@
 -  [https://replit.com/@laurasmendozad/day-7-hangman-5](https://replit.com/@laurasmendozad/day-7-hangman-5) - Improving the user experience
 
 ## Project - Hangman
-
+![Hangman](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/d1202ac4-7358-4b1a-b566-b79efdef4cff)
 
 ## Concepts Practiced
 - Flow chart

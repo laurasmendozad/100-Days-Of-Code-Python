@@ -10,7 +10,7 @@ lives = 6
 
 clear()
 print(logo)
-print(f'Pssst, the solution is {word}.')
+# print(f'Pssst, the solution is {word}.')
 display = ['_' for w in word]
 
 while '_' in display:

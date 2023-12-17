@@ -8,22 +8,21 @@ list_of_letters = []
 end = False
 lives = 6
 
-
+clear()
 print(logo)
 print(f'Pssst, the solution is {word}.')
 display = ['_' for w in word]
 
 while '_' in display:
     letter = input("Guess a letter: ").lower()
-    
+
     clear()
 
     if letter in list_of_letters:
         print(f"You've already guessed {letter}")
     else:
-
         for p in range(len(word)):
-            if word[p] == letter:        
+            if word[p] == letter:
                 display[p] = letter
 
         if letter not in word:
@@ -32,7 +31,7 @@ while '_' in display:
             if lives == 0:
                 print('You lose.')
                 end = True
-  
+
     list_of_letters.append(letter)
     print(f"{' '.join(display)}")
     print(stages[lives])

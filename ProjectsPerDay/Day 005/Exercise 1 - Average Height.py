@@ -12,4 +12,6 @@ for items in student_heights:
     s += items
     n += 1
 a = round(s/n)
-print(a)
+print(f"total height = {s}")
+print(f"number of students = {n}")
+print(f"average height = {a}")

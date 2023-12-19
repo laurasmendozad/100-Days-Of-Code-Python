@@ -172,5 +172,5 @@ while start.upper() == 'Y':
         else:
             a_c = input("Type 'Y' to get another card or 'N' to pass --> ")
 
-    b = final_result(b, u_score, c_score)
+    final_result(b, u_score, c_score)
     start = input("Do you want to play a game of Blackjack? Type 'Y' or 'N' --> ")

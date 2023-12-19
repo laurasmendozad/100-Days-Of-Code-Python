@@ -11,3 +11,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 6:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20006) Python Functions & Karel
 - [Day 7:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20007) Hangman
 - [Day 8:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20008) Function Parameters & Caesar Cipher
+- [Day 9:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20009) Dictionaries, Nesting and the Secret Auction

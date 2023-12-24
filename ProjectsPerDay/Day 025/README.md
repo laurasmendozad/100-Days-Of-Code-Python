@@ -11,6 +11,4 @@
 
 ## Concepts Practiced
 
-- How to open, read, and write to files using the "with" keyword
-- Relative and absolute file paths
-- Add a high score to the snake game
+- Learnt how to read and make CSV file with the use of Pandas library.

@@ -7,7 +7,7 @@
 
 ## Project - Juego de los Departamentos de Colombia
 
-![Uploading Juego de Departamentos de Colombia.gif…]()
+![Juego de Departamentos de Colombia](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/b45eaed3-e0df-4d42-bad4-aa1e1982e198)
 
 ## Concepts Practiced
 

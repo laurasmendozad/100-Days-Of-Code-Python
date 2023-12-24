@@ -3,7 +3,7 @@ from random import choice
 import colorgram as c
 
 number_of_colors = 7
-colors = c.extract("image.png", number_of_colors)
+colors = c.extract("ProjectsPerDay\Day 018\Project - The Hirst Painting\image.png", number_of_colors)
 colors_rgb = []
 
 for c in range(1,number_of_colors):

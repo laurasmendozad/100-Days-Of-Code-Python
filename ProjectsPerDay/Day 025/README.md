@@ -2,11 +2,12 @@
 
 ## Project - U.S. States Game
 
-![Snake Game](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/17866f0b-0350-4af1-88c6-29a8d3fdad16)
+![US States Game](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/c747a4d4-e53d-4c94-a582-204ab6d48eac)
+
 
 ## Project - Juego de los Departamentos de Colombia
 
-![Mail Merge](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/d4e464e3-eb45-450e-9ec2-d439b5a0e0b4)
+![Uploading Juego de Departamentos de Colombia.gif…]()
 
 ## Concepts Practiced
 

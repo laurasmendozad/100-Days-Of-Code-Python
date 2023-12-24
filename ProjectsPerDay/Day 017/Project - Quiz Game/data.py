@@ -33,7 +33,7 @@ question_data = [
         "category": "Science: Computers",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;",
+        "question": "FLAC stands for 'Free Lossless Audio Condenser'",
         "correct_answer": "False",
         "incorrect_answers": ["True"]
     },
@@ -48,7 +48,7 @@ question_data = [
         "category": "Science: Computers",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "&quot;Windows NT&quot; is a monolithic kernel.",
+        "question": "'Windows NT' is a monolithic kernel.",
         "correct_answer": "False",
         "incorrect_answers": ["True"]
     },
@@ -132,7 +132,7 @@ question_data = [
         "category": "Science: Computers",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "It&#039;s not possible to format a write-protected DVD-R Hard Disk.",
+        "question": "It's not possible to format a write-protected DVD-R Hard Disk.",
         "correct_answer": "True",
         "incorrect_answers": ["False"]
     },
@@ -141,7 +141,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "easy",
         "question": "The Python programming language gets its name from the British comedy "
-        "group &quot;Monty Python.&quot;",
+        "group 'Monty Python.'",
         "correct_answer": "True",
         "incorrect_answers": ["False"]
     }

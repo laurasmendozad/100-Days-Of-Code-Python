@@ -4,13 +4,13 @@ import pandas as pd
 
 screen = turtle.Screen()
 screen.title("Juego de Departamentos de Colombia")
-IMAGE = "departamentos_img.gif"
+IMAGE = "ProjectsPerDay/Day 025/Project - Juego de los Departamentos de Colombia/departamentos_img.gif"
 screen.addshape(IMAGE)
 turtle.shape(IMAGE)
 puntaje = 0
 departamentos_acertados = []
 departamentos_faltantes = []
-departamentos = pd.read_csv("32_departamentos.csv")
+departamentos = pd.read_csv(r"ProjectsPerDay\Day 025\Project - Juego de los Departamentos de Colombia\32_departamentos.csv")
 todos_departamentos = departamentos.departamento.to_list()
 
 while puntaje < len(departamentos.departamento)-1:

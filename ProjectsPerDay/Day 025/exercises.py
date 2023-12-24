@@ -44,7 +44,7 @@
 
 ## EXERCISE OF SQUIRREL CENSUS DATA ANALYSIS
 import pandas as pd
-data = pd.read_csv("2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv")
+data = pd.read_csv(r"ProjectsPerDay\Day 025\2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv")
 
 # grey = 0
 # red = 0
@@ -66,4 +66,4 @@ data_dict = {
     "Count": [grey,red,black]
 }
 df = pd.DataFrame(data_dict)
-df.to_csv("squirrel_count.csv")
+df.to_csv("ProjectsPerDay\Day 025\squirrel_count.csv")

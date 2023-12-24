@@ -1,4 +1,4 @@
-'''Etch-A-Sketch App'''
+'''Challenge Etch-A-Sketch App'''
 
 from turtle import Turtle, Screen
 

@@ -23,3 +23,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 16:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20016) Object Oriented Programming (OOP)
 - [Day 17:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20017) The Quiz Project & The Benefits of OOP
 - [Day 18:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20018) Turtle & the Graphical User Interface (GUI)
+- [Day 19:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20019) Instances, State and Higher Order Functions

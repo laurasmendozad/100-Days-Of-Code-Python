@@ -1,8 +1,6 @@
 # Day 17 - The Quiz Project & The Benefits of OOP
 
-
-
-https://replit.com/@laurasmendozad/day-16-oop-coffee-machine
+![Quiz Project](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/552cf9ea-0c67-4c1f-94c5-2b6d84deb147)
 
 ## Concepts Practiced
 

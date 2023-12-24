@@ -21,7 +21,7 @@ class Scoreboard(Turtle):
         self.goto(-100,200)
         self.write(f'{self.left_score}', align=ALIGNMENT, font=FONT_SCORE)
         self.goto(100,200)
-        self.write(f'{self.right_score}', align=ALIGNMENT, font=FONT_SCORE)    
+        self.write(f'{self.right_score}', align=ALIGNMENT, font=FONT_SCORE)
 
     def left_point(self):
         '''Increase the score to left'''

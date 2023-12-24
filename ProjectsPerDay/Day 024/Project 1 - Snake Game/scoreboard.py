@@ -10,7 +10,7 @@ class Scoreboard(Turtle):
     def __init__(self):
         super().__init__()
         self.score= 0
-        with open("data.txt", encoding="utf-8") as file:
+        with open("ProjectsPerDay\Day 024\Project 1 - Snake Game\data.txt", encoding="utf-8") as file:
             self.high_score = int(file.read())
         self.hideturtle()
         self.penup()

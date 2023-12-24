@@ -28,3 +28,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 21:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20021) Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20022) Build Pong: The Famous Arcade Game
 - [Day 23:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20023) The Turtle Crossing Capstone Project
+- [Day 24:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20024) Files, Directories and Paths

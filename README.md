@@ -32,3 +32,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 25:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20025) Working with CSV Data and the Pandas Library
 - [Day 26:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20026) List Comprehension and the Nato Alphabet
 - [Day 27:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20027) Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 28:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20028) Tkinter, Dynamic Typing and the Pomodoro GUI Application

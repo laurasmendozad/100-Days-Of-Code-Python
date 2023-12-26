@@ -1,19 +1,14 @@
-# Day 27 - List Comprehension and the Nato Alphabet
+# Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
 
-## Exercise
+## Project - Mile to Kilometer Converter
 
-- https://replit.com/@laurasmendozad/day-26-1-exercise
-- https://replit.com/@laurasmendozad/day-26-2-exercise
-- https://replit.com/@laurasmendozad/day-26-3-exercise
-- https://replit.com/@laurasmendozad/day-26-4-exercise
-- https://replit.com/@laurasmendozad/day-26-5-exercise
-
-## Project - NATO Alphabet
-
-![NATO Alphabet](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/f889835d-acf9-4dfc-a16b-0a6ea1abec48)
+![Mile to Kilometer Converter](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/524f7243-b156-423d-b92b-a03ded742655)
 
 ## Concepts Practiced
 
-- List comprehension
-- Dictionary comprehension
-- Iteratations over a pandas dataFrame
+- Creating windows and labels with Tkinter
+- *args
+- **kwargs
+- Buttons, entry, and setting component options
+- Other Tkinter widgets: radiobuttons, scales, checkbuttons and more
+- Tkinter layout managers: pack(), place() and grid()

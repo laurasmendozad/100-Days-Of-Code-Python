@@ -11,5 +11,3 @@ result = [n for n in num_file1 if n in num_file2]
 # Write your code above 👆
 
 print(result)
-
-

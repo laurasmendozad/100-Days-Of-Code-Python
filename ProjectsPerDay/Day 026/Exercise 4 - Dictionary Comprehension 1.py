@@ -7,4 +7,3 @@ words = sentence.split(" ")
 result = {w:len(w) for w in words}
 
 print(result)
-

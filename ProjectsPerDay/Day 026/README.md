@@ -10,4 +10,4 @@
 
 ## NATO Alphabet
 
-![nato alphabet](nato_alphabet.gif)
+![NATO Alphabet](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/f889835d-acf9-4dfc-a16b-0a6ea1abec48)

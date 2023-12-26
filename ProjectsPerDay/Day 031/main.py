@@ -8,9 +8,9 @@ BACKGROUND_COLOR = "#B1DDC6"
 FONT1 = ("Arial", 40, "italic")
 FONT2 = ("Arial", 60, "bold")
 try:
-    words = pd.read_csv("data/words_to_learn.csv")
+    words = pd.read_csv(r"ProjectsPerDay\Day 031\data\words_to_learn.csv")
 except FileNotFoundError:
-    words = pd.read_csv("data/french_words.csv")
+    words = pd.read_csv(r"ProjectsPerDay\Day 031\data\french_words.csv")
 
 to_learn = words.to_dict(orient="records")
 word_chosen = {}
@@ -22,7 +22,7 @@ def is_known():
     global word_chosen
     to_learn.remove(word_chosen)
     words_to_learn = pd.DataFrame(to_learn)
-    words_to_learn.to_csv("data/words_to_learn.csv", index=False)
+    words_to_learn.to_csv("ProjectsPerDay\Day 031\data\english_words.csv", index=False)
     next_card()
     
 # ---------------------------------------- FLIP THE CARDS ---------------------------------------- #
@@ -58,18 +58,18 @@ language1 = list(words.columns.values)[0]
 language2 = list(words.columns.values)[1]
 
 canvas = Canvas(width=800, height=526, bg=BACKGROUND_COLOR, highlightthickness=0)
-card_front = PhotoImage(file="images/card_front.png")
-card_back = PhotoImage(file="images/card_back.png")
+card_front = PhotoImage(file="ProjectsPerDay\Day 031\images\card_front.png")
+card_back = PhotoImage(file="ProjectsPerDay\Day 031\images\card_back.png")
 canvas_image = canvas.create_image(400, 263, image = card_front)
 title = canvas.create_text(400, 150, text="", font= FONT1)
 word = canvas.create_text(400, 263, text="", font= FONT2)
 canvas.grid(row=0, column=0, columnspan=2)
 
-wrong = PhotoImage(file="images/wrong.png")
+wrong = PhotoImage(file=r"ProjectsPerDay\Day 031\images\wrong.png")
 wrong_button = Button(image=wrong, highlightthickness=0, command=next_card)
 wrong_button.grid(row=1, column=0)
 
-right = PhotoImage(file="images/right.png")
+right = PhotoImage(file=r"ProjectsPerDay\Day 031\images\right.png")
 right_button = Button(image=right, highlightthickness=0, command=is_known)
 right_button.grid(row=1, column=1)
 

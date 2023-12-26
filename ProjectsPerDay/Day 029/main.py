@@ -39,7 +39,7 @@ def save_password():
                                                 "\n  Password: "+password_entry.get())
 
         if is_ok:
-            with open("Passwords File.txt", "a", encoding="utf-8") as pass_file:
+            with open("ProjectsPerDay\Day 029\Passwords File.txt", "a", encoding="utf-8") as pass_file:
                 pass_file.write(website_entry.get()+" | "
                                 +user_entry.get()+" | "
                                 +password_entry.get()+"\n")

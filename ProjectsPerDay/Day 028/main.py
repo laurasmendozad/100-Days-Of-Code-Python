@@ -7,9 +7,9 @@ RED = "#e7305b"
 GREEN = "#379B46"
 YELLOW = "#f7f5dd"
 FONT_NAME = "Courier"
-WORK_MIN = 1 # 25
-SHORT_BREAK_MIN = 1 # 5
-LONG_BREAK_MIN = 1 # 20
+WORK_MIN = 25
+SHORT_BREAK_MIN = 5
+LONG_BREAK_MIN = 20
 reps = 0
 timer = None
 # ----------------------------------------- TIMER RESET ----------------------------------------- #
@@ -72,7 +72,7 @@ timer_label = Label(text="Timer", font=(FONT_NAME, 35, "bold"), bg=YELLOW, fg=GR
 timer_label.grid(column=1, row=0)
 
 canvas = Canvas(width=200, height=224, bg=YELLOW, highlightthickness=0)
-img = PhotoImage(file="tomato.png")
+img = PhotoImage(file=r"ProjectsPerDay\Day 028\tomato.png")
 canvas.create_image(100, 112, image = img)
 timer_text = canvas.create_text(100, 130, text="00:00", font=(FONT_NAME, 35, "bold"))
 canvas.grid(column=1, row=1)

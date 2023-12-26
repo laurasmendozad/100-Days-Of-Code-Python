@@ -33,3 +33,6 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 26:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20026) List Comprehension and the Nato Alphabet
 - [Day 27:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20027) Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20028) Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Day 29:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20029) Building a Password Manager GUI App with Tkinter
+- [Day 30:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20030) Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20031) Flash Card App Capstone Project

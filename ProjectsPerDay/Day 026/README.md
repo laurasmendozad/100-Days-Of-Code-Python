@@ -1,4 +1,4 @@
-# Day 26 - List Comprehension and the Nato Alphabet
+# Day 26 - Tkinter, *args, **kwargs and Creating GUI Programs
 
 ## Exercise
 

@@ -55,7 +55,7 @@ window.title("Password Generator")
 window.config(padx=50, pady=50)
 
 canvas = Canvas(width=200, height=200)
-img = PhotoImage(file="logo.png")
+img = PhotoImage(file="ProjectsPerDay\Day 029\logo.png")
 canvas.create_image(100, 100, image = img)
 canvas.grid(row=0, column=1)
 

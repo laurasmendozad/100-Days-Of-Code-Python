@@ -42,7 +42,7 @@ def save_password():
         messagebox.showwarning(title="Oops", message="Please don't leave any fields empty!")
     else:
         try:
-            with open("data.json", "r", encoding="utf-8") as pass_file:
+            with open("ProjectsPerDay\Day 030\Project - Password Manager Part 2\data.json", "r", encoding="utf-8") as pass_file:
                 # Read old data
                 data = json.load(pass_file)
                 # Updating old data with new data
@@ -52,7 +52,7 @@ def save_password():
             data = new_data
 
         finally:
-            with open("data.json", "w", encoding="utf-8") as pass_file:
+            with open("ProjectsPerDay\Day 030\Project - Password Manager Part 2\data.json", "w", encoding="utf-8") as pass_file:
                 # Saving updated data
                 json.dump(data, pass_file, indent=4)
 
@@ -67,7 +67,7 @@ def find_password():
     ''' Function to Search an Specific Password '''
     website = website_entry.get()
     try:
-        with open("data.json", "r", encoding="utf-8") as data_file:
+        with open("ProjectsPerDay\Day 030\Project - Password Manager Part 2\data.json", "r", encoding="utf-8") as data_file:
             data = json.load(data_file)
 
     except FileNotFoundError:
@@ -88,7 +88,7 @@ window.title("Password Generator")
 window.config(padx=50, pady=50)
 
 canvas = Canvas(width=200, height=200)
-img = PhotoImage(file="logo.png")
+img = PhotoImage(file="ProjectsPerDay\Day 030\Project - Password Manager Part 2\logo.png")
 canvas.create_image(100, 100, image = img)
 canvas.grid(row=0, column=1)
 

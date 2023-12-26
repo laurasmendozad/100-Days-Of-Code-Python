@@ -1,8 +1,8 @@
 ''' NATO Alphabet Project '''
 import pandas as pd
 
-data = pd.read_csv("nato_phonetic_alphabet.csv")
-data_dict = {row[0]: row[1] for (index, row) in data.iterrows()}
+data = pd.read_csv(r"ProjectsPerDay\Day 026\Project - NATO Alphabet\nato_phonetic_alphabet.csv")
+data_dict = {row.iloc[0]: row.iloc[1] for (index, row) in data.iterrows()}
 
 def generate_phonetic():
     ''' Generate Word with Phonetic Alphabet '''

@@ -1,8 +1,16 @@
-# Day 32 - Send Email (smtplib) & Manage Dates (datetime)
+# Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier
 
-![Birthday Wisher](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/15573111-5b10-47b3-aa6a-9369ce7b4b8e)
+## Exercise - Taylor Quotes
+
+![Taylor Quotes](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/a67e00f0-6e0e-4a66-9b31-2c0463c15be2)
+
+## Project - ISS Overhead Notifier Project
+
+![ISS Overhead Notifier](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/2ba8c477-3c39-4416-9503-f80c7d335c43)
+
 
 ## Concepts Practiced
 
-- Send emails using SMTP
-- Datetime module
+- API endpoints and calls
+- HTTP Codes, exceptions & JSON data
+- API Parameters

@@ -36,3 +36,6 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 29:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20029) Building a Password Manager GUI App with Tkinter
 - [Day 30:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20030) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20031) Flash Card App Capstone Project
+
+## 🌈 Intermediate +
+- [Day 32:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20032) Send Email (smtplib) & Manage Dates (datetime)

@@ -27,15 +27,15 @@ class QuizInterface:
                                                     justify= CENTER)
         self.canvas.grid(row=1, column=0, columnspan=2, pady=50)
 
-        self.true_img = PhotoImage(file="images/true.png")
+        self.true_img = PhotoImage(file=r"Day 034\images\true.png")
         self.true_button = Button(image=self.true_img,
                                   highlightthickness=0,
                                   command=self.true_answer)
         self.true_button.grid(row=2, column=0)
 
-        self.false_img = PhotoImage(file="images/false.png")
+        self.false_img = PhotoImage(file=r"Day 034\images\false.png")
         self.false_button = Button(image=self.false_img,
-                                   highlightthickness=0, 
+                                   highlightthickness=0,
                                    command=self.false_answer)
         self.false_button.grid(row=2, column=1)
 

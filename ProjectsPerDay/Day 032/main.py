@@ -18,7 +18,6 @@ def send_email(subject, message):
             msg=f"Subject:{subject}\n\n{message}"
         )
 
-
 now = dt.datetime.now()
 day_of_week = now.weekday()
 

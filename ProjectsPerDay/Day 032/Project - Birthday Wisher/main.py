@@ -7,17 +7,15 @@
 
 from datetime import datetime
 from random import randint
+import os
 import smtplib
 import pandas as pd
-
-
 
 def send_email(email_to_send, subject, message):
     ''' Send the email '''
     email = "laurasofi0507@gmail.com"
-    password = "szgbhjjvkczlysfw"
-
-    with smtplib.SMTP("smtp.gmail.com") as connection:
+    password = os.environ.get("APP_PASSWORD")
+    with smtplib.SMTP("smtp.gmail.com", port=587) as connection:
         connection.starttls()
         connection.login(user=email, password=password)
         connection.sendmail(
@@ -29,12 +27,12 @@ def send_email(email_to_send, subject, message):
 today = datetime.now()
 today_tuple = (today.month, today.day)
 
-data = pd.read_csv("birthdays.csv")
+data = pd.read_csv(r"Day 032\Project - Birthday Wisher\birthdays.csv")
 birthdays_dict = {(data_row["month"], data_row["day"]): data_row for (index,
                                                                       data_row) in data.iterrows()}
 if today_tuple in birthdays_dict:
     birthday_person = birthdays_dict[today_tuple]
-    file_path = f"letter_templates/letter_{randint(1,3)}.txt"
+    file_path = f"Day 032\Project - Birthday Wisher\letter_templates\letter_{randint(1,3)}.txt"
 
     with open(file_path, encoding="utf-8") as letter_file:
         contents = letter_file.read()

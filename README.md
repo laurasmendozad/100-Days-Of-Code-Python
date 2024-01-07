@@ -41,3 +41,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 32:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20032) Send Email (smtplib) & Manage Dates (datetime)
 - [Day 33:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20033) API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20034) API Practice - Creating a GUI Quiz App
+- [Day 35:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20035) Keys, Authentication & Environment Variables: Send SMS

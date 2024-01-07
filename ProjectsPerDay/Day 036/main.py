@@ -52,7 +52,7 @@ positive_diference = abs(difference)
 
 diff_percent = (positive_diference / float(yesterday_closing_price)) * 100
 
-#TODO 5. - If TODO4 percentage is greater than 5 then print("Get News").
+#TODO 5. - If TODO4 percentage is greater than 0 then print("Get News").
 
 if diff_percent > 0:
     # print("Get News")

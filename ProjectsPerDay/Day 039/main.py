@@ -44,6 +44,4 @@ for destination in sheet_data:
     i += 1
 
     notification_manager.send_sms(
-        message=f"Low price alert! Only £{flight.price} to fly from {flight.origin_city}-"+
-        "{flight.origin_airport} to {flight.destination_city}-{flight.destination_airport}, "
-        "from {flight.out_date} to {flight.return_date}.")
+        message=f"Low price alert! Only {flight.price}COP to fly from {flight.origin_city}-{flight.origin_airport} to {flight.destination_city}-{flight.destination_airport}, from {flight.out_date} to {flight.return_date}.")

@@ -1,6 +1,6 @@
 # Day 37 - Habit Tracking Project: API Post Requests & Headers
 
-<img src="HabitTracker.png" height="800">
+<img src="HabitTracker.png">
 
 ## Concepts Practised
 - HTTP post requests

@@ -46,3 +46,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 37:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20037) Habit Tracking Project: API Post Requests & Headers
 - [Day 38:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20038) Workout Tracking Using Google Sheets
 - [Day 39:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20039) Capstone Part 1: Flight Deal Finder
+- [Day 40:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20040) Capstone Part 2: Flight Club

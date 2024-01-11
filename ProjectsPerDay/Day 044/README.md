@@ -16,7 +16,9 @@
 
 
 ## Project - Motivational Poster Website
-![image](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/70a1f660-ddcb-40c4-8b0e-664d7e5ac5c2)
+
+![image](https://github.com/laurasmendozad/100-Days-Of-Code-Python/assets/58611097/6941ad59-4b82-443a-9123-d99698231826)
+
 
 
 

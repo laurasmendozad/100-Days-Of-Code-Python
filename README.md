@@ -50,4 +50,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 41:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20041) Web Foundation - Introduction to HTML
 - [Day 42:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20042) Web Foundation - Intermediate HTML
 - [Day 43:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20043) Web Foundation - Introduction to CSS
-- [Day 44:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20043) Web Foundation - Intermediate CSS
+- [Day 44:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20044) Web Foundation - Intermediate CSS

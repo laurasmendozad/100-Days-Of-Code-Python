@@ -38,7 +38,7 @@ def send_email(subject, message):
 
 title = soup.find(id="productTitle").get_text().strip()
 
-BUY_PRICE = 120
+BUY_PRICE = 70
 
 if price_number < BUY_PRICE:
     send_email("Amazon Price Alert!", f"{title} is now in {price}\n{URL}")

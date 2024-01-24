@@ -55,3 +55,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 46:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20046) Create a Spotify Playlist using the Musical Time Machine
 - [Day 47:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20047) Create an Automated Amazon Price Tracker
 - [Day 48:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20048) Selenium Webdriver Browser and Game Playing Bot
+- [Day 49:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20049) Automating Job Applications on LinkedIn

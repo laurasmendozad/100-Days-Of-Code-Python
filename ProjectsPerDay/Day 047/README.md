@@ -13,5 +13,5 @@ Demonstration of the Automata
 ## Concepts Practised
 
 - Web scrapping
-- Requests and responses}
+- Requests and responses
 - Send emails

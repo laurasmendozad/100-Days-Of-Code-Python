@@ -21,8 +21,7 @@ driver.find_element(By.XPATH, '/html/body/div[1]/header/nav/div/a[2]').click()
 driver.find_element(By.XPATH, '//*[@id="username"]').send_keys(os.environ.get("LINKEDIN_USER"))
 driver.find_element(By.XPATH, '//*[@id="password"]').send_keys(os.environ.get("LINKEDIN_PASSWORD"))
 driver.find_element(By.XPATH, '//*[@id="organic-div"]/form/div[3]/button').click()
-time.sleep(60)
-driver.find_element(By.XPATH, '//*[@id="ember117"]/svg/use').click()
+time.sleep(30)
 jobs = driver.find_elements(By.CLASS_NAME,'job-card-container')
 jobs = [job.text for job in jobs]
 dict_jobs = {}

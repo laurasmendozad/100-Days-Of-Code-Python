@@ -4,7 +4,7 @@ from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import ElementNotInteractableException
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach",True)
@@ -28,9 +28,7 @@ driver.find_element(By.XPATH, '//*[@id="c537208204"]/main/div[1]/div/div/div[3]/
 driver.find_element(By.XPATH, '//*[@id="c537208204"]/main/div[1]/div/div/div[3]/button[2]').click()
 driver.find_element(By.XPATH, '//*[@id="c315867768"]/div/div[2]/div/div/div[1]/div[1]/button').click()
 sleep(10)
-for _ in range(100):
-    try:
-        driver.find_element(By.XPATH, '//*[@id="c315867768"]/div/div[1]/div/main/div[1]/div/div/div[1]/div[1]/div/div[3]/div/div[2]/button').click()
-    except NoSuchElementException:
-        sleep(5)
+for _ in range(10):
+    driver.find_element(By.XPATH, '//*[@id="Tinder"]/body').send_keys(Keys.LEFT)
+    sleep(5)
 driver.quit()

@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import ElementClickInterceptedException
 
-SIMILAR_ACCOUNT = "artofliving"
+SIMILAR_ACCOUNT = "artoflisaking"
 INSTAGRAM_USER = os.environ.get("INSTAGRAM_USER")
 INSTAGRAM_PASSWORD = os.environ.get("INSTAGRAM_PASSWORD")
 
@@ -50,6 +50,7 @@ class InstaFollower:
             except ElementClickInterceptedException:
                 cancel_button = self.driver.find_element(by=By.XPATH, value="//button[contains(text(),'Cancel')]")
                 cancel_button.click()
+        self.driver.quit()
 
 bot = InstaFollower()
 bot.login()

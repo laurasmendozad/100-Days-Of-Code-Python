@@ -60,3 +60,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 51:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20051) Internet Speet Twitter Complian Bot
 - [Day 52:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20052) Instagram Follower Bot
 - [Day 53:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20053) Web Scraping Capstone - Data Entry Job Automation
+- [Day 54:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20054) Introduction to Web Development with Flask

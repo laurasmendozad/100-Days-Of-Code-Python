@@ -63,3 +63,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 54:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20054) Introduction to Web Development with Flask
 - [Day 55:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20055) HTML & URL Parsing in Flask and the Higher Lower Game
 - [Day 56:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20056) Rendering HTML/Static files and Using Website Templates
+- [Day 57:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20057) Templating with Jinja in Flask Applications

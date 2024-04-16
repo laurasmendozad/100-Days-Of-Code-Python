@@ -19,7 +19,6 @@ class DataManager:
         response = requests.get(url=SHEETY_PRICES_ENDPOINT,
                                 headers=self.sheety_headers,
                                 timeout=10)
-        print(response.json())
         data = response.json()
         self.destination_data = data["prices"]
 
@@ -51,10 +50,25 @@ class DataManager:
                          json=new_data,
                          timeout=10)
 
-    def get_customer_emails(self):
+    def get_customer_data(self):
         '''Use the Sheety API to GET all the data in that sheet and print it out.'''
         response = requests.get(url=SHEETY_USERS_ENDPOINT,
                                 headers=self.sheety_headers,
                                 timeout=10)
         self.customer_data = response.json()["users"]
+        print(self.customer_data)
         return self.customer_data
+
+    def create_customer(self, first_name, last_name, email):
+        '''Create Rows in the Sheety'''
+        body = {
+            "user": {
+                "firstName": first_name,
+                "lastName": last_name,
+                "email": email
+            }
+        }
+        response = requests.post(url=f"{SHEETY_USERS_ENDPOINT}",
+                                 headers=self.sheety_headers,
+                                 json=body,
+                                 timeout=10)

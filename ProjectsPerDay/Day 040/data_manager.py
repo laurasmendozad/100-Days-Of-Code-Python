@@ -4,12 +4,14 @@ import os
 import requests
 
 SHEETY_PRICES_ENDPOINT = "https://api.sheety.co/dce51f414bc3809c0c41899550c70ce5/flightDeals/prices"
+SHEETY_USERS_ENDPOINT = "https://api.sheety.co/dce51f414bc3809c0c41899550c70ce5/flightDeals/users"
 SHEETY_TOKEN = os.environ["SHEETY_TOKEN"]
 
 class DataManager:
     ''' Data Manager Class '''
     def __init__(self):
         self.destination_data = {}
+        self.customer_data = {}
         self.sheety_headers = {"Authorization":f"Bearer {SHEETY_TOKEN}"}
 
     def get_destination_data(self):
@@ -48,3 +50,11 @@ class DataManager:
                          headers=self.sheety_headers,
                          json=new_data,
                          timeout=10)
+
+    def get_customer_emails(self):
+        '''Use the Sheety API to GET all the data in that sheet and print it out.'''
+        response = requests.get(url=SHEETY_USERS_ENDPOINT,
+                                headers=self.sheety_headers,
+                                timeout=10)
+        self.customer_data = response.json()["users"]
+        return self.customer_data

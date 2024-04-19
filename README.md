@@ -70,3 +70,4 @@ Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 59:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20059) Blog Capstone Project Part 2 - Adding Styling
 - [Day 60:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20060) Make POST Requests with Flask and HTML Forms
 - [Day 61:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20061) Building Advanced Forms with Flask-WTForms
+- [Day 62:](https://github.com/laurasmendozad/100-Days-Of-Code-Python/tree/main/ProjectsPerDay/Day%20062) Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
